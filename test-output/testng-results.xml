@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78536" started-at="2021-09-27T18:24:33 IST" finished-at="2021-09-27T18:25:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78536" started-at="2021-09-27T18:24:33 IST" finished-at="2021-09-27T18:25:52 IST">
+      <class name="com.urbanladder.runner.Runner">
+        <test-method status="PASS" signature="homePage()[pri:0, instance:com.urbanladder.runner.Runner@235a0c16]" name="homePage" is-config="true" duration-ms="2283" started-at="2021-09-27T18:24:33 IST" finished-at="2021-09-27T18:24:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.urbanladder.runner.Runner@235a0c16]" name="Login" duration-ms="10365" started-at="2021-09-27T18:24:35 IST" finished-at="2021-09-27T18:24:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="DiningTable(java.lang.String)[pri:1, instance:com.urbanladder.runner.Runner@235a0c16]" name="DiningTable" duration-ms="1840" started-at="2021-09-27T18:24:46 IST" data-provider="getSearchData" finished-at="2021-09-27T18:24:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dining table]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DiningTable -->
+        <test-method status="PASS" signature="Sale()[pri:2, instance:com.urbanladder.runner.Runner@235a0c16]" name="Sale" duration-ms="9948" started-at="2021-09-27T18:24:48 IST" finished-at="2021-09-27T18:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sale -->
+        <test-method status="PASS" signature="Living()[pri:3, instance:com.urbanladder.runner.Runner@235a0c16]" name="Living" duration-ms="8504" started-at="2021-09-27T18:24:58 IST" finished-at="2021-09-27T18:25:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Living -->
+        <test-method status="PASS" signature="Bedroom()[pri:4, instance:com.urbanladder.runner.Runner@235a0c16]" name="Bedroom" duration-ms="8354" started-at="2021-09-27T18:25:06 IST" finished-at="2021-09-27T18:25:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bedroom -->
+        <test-method status="PASS" signature="Storage()[pri:5, instance:com.urbanladder.runner.Runner@235a0c16]" name="Storage" duration-ms="8968" started-at="2021-09-27T18:25:15 IST" finished-at="2021-09-27T18:25:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Storage -->
+        <test-method status="PASS" signature="Study()[pri:6, instance:com.urbanladder.runner.Runner@235a0c16]" name="Study" duration-ms="8283" started-at="2021-09-27T18:25:24 IST" finished-at="2021-09-27T18:25:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Study -->
+        <test-method status="PASS" signature="Kids()[pri:7, instance:com.urbanladder.runner.Runner@235a0c16]" name="Kids" duration-ms="8002" started-at="2021-09-27T18:25:32 IST" finished-at="2021-09-27T18:25:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Kids -->
+        <test-method status="PASS" signature="GiftCard()[pri:8, instance:com.urbanladder.runner.Runner@235a0c16]" name="GiftCard" duration-ms="9455" started-at="2021-09-27T18:25:40 IST" finished-at="2021-09-27T18:25:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCard -->
+        <test-method status="PASS" signature="BulkOrder()[pri:9, instance:com.urbanladder.runner.Runner@235a0c16]" name="BulkOrder" duration-ms="2041" started-at="2021-09-27T18:25:50 IST" finished-at="2021-09-27T18:25:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BulkOrder -->
+      </class> <!-- com.urbanladder.runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
